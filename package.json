@@ -1,0 +1,16 @@
+{
+  "name": "zmiana_nazw",
+  "version": "1.0.0",
+  "description": "Zmiana nazw plików",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KV",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-imagemin": "^4.1.0"
+  }
+}
